@@ -1,0 +1,138 @@
+body{
+   
+    font-family: 'Poppins', sans-serif
+}
+
+h1 {
+    font-size: 50px;
+    line-height: 0.80;
+}
+p {
+    color: dimgray;
+    line-height: 1.45;
+    padding-bottom: 5%;
+}
+#name{
+    color: rgb(224, 9, 124);
+}
+section {
+    height: 700px;
+    padding-bottom: 150px;
+   
+    
+    
+}
+.content {
+    width: 40%;  
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+
+.introduction{
+    padding-top: 5%;
+    padding-left: 5%;
+    margin-top: 10%;
+    margin-left: 5%;;
+}
+.content img {
+    
+    width: 90%;
+    height: 50%;
+    padding-top: 10%;
+  
+   
+   
+}
+
+#section1 {
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+
+.link-button {
+    text-decoration: none;
+    margin-top: 5%;
+    background-image: linear-gradient(90deg,rgb(224, 9, 124),rgba(230, 14, 122, 0.993));
+    padding: 15px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    
+}
+#biography{
+    background-image: url("images/biography-bg.png");
+    
+}
+#image-size{
+    width: 70%;
+    height: 40%;
+}
+.biograpy_edit {
+    margin-top: 15%;
+}
+#work {
+    text-align: center;
+    font-weight: 700;
+    padding-top: 5%;
+    padding-right: 10%;
+}
+#latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    padding-left: 10%;
+    height: 500px;
+    
+}
+
+.work-details img{
+    width: 100%;
+    height: 50%;
+
+}
+.work-details{
+    width: 25%;  
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;
+    margin-top: 2%;
+   
+}
+#contact{
+    padding-top: 5%;
+    text-align: center;
+    
+}
+.backround{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+
+}
+
+.name-info{
+    line-height: 0.80;
+    font-size: 20px;
+   
+}
+.info {
+    padding-top: 30px;
+}
+#text {
+    padding-top: 30px;
+    color: rgb(49, 42, 42);
+    font-weight: 700;
+}
+#contact-info {
+    width: 40%;
+    background-image: linear-gradient(90deg,rgb(224, 9, 124),rgba(230, 14, 122, 0.993));
+    margin-left: 30%;
+    height: 20%;
+    padding-top: 2%;
+    border-radius: 5px;
+}
+#footer{
+    text-align: center;
+    padding-top: 100px;
+    font-weight: 700;
+}
